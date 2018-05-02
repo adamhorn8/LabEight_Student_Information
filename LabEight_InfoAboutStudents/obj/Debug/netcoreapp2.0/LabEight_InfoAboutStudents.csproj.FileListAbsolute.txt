@@ -1,0 +1,11 @@
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/obj/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.csprojResolveAssemblyReference.cache
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/obj/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.csproj.CoreCompileInputs.cache
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/obj/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.AssemblyInfoInputs.cache
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/obj/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.AssemblyInfo.cs
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/bin/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.deps.json
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/bin/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.runtimeconfig.json
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/bin/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.runtimeconfig.dev.json
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/bin/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.dll
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/bin/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.pdb
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/obj/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.dll
+/Users/Adam/Projects/LabEight_InfoAboutStudents/LabEight_InfoAboutStudents/obj/Debug/netcoreapp2.0/LabEight_InfoAboutStudents.pdb
